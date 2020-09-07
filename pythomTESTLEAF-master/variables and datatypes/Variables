@@ -1,0 +1,12 @@
+Variables :
+Variables are creating a memory and storing data in the background
+Storing and working with data in computer's memory
+
+type(variable) function ---> will tell us what datatype the variable contains
+id(variable) function   ---> will tell us the memory in which the variable is stored
+
+1) Variable can start with any alphabet ie ---> A-->Z or a ---> z
+2) variable should not start wih digit.
+3) variable should not be keyword
+4) variable should not start with special characters ie !,@,#,$,
+5) variable,method or function starting with underscore ie (_) then it is considered as private variable

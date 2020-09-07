@@ -1,0 +1,27 @@
+Data structures :-
+
+1) list       -----> single dimension
+2) tuple      -----> single dimension
+3) set        -----> single dimension
+4) dictionary -----> two dimension
+
+major characteristics of the 1 dimension list :-
+1) allow duplicate values
+2) it always maintain the insertion order
+3) list should be declared within []
+4) list is mutable (ie) we can modify the existing value
+
+major characteristics of the 1 dimension tuple :-
+1) allow duplicate values
+2) it always maintain the insertion order
+3) tuple should be declared within ()
+4) tuple is immutable (ie) we cannot modify the existing value
+
+major characteristics of the 1 dimension set :-
+1) will not allow the duplicates (will allow only unique value)
+2) will not maintain the order
+3) set should be declared within { }
+
+
+
+
