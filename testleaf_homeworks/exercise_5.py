@@ -8,6 +8,6 @@ list_a=[12,24,35,24,88,155,88,120,155]
 set_val=list(set(list_a))
 print(set_val,type(set_val))
 
-for val in sorted(set_val):
-    print(val)
+set_val.sort()
+print(set_val)
 
