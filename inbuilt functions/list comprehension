@@ -1,0 +1,6 @@
+List comprehension:-
+
+1) : will generate a list with the help of another list
+
+Syntax:-
+[(operation) for i in list]
